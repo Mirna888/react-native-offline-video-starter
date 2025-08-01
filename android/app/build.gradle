@@ -108,6 +108,8 @@ android {
 }
 
 dependencies {
+
+    implementation fileTree(dir: "../../node_modules/@TheWidlarzGroup/react-native-video-stream-downloader/native-libs", include: ["*.aar"])
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
 

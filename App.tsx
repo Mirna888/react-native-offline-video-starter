@@ -1,28 +1,32 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createStaticNavigation } from '@react-navigation/native';
+import { setConfig } from '@TheWidlarzGroup/react-native-video-stream-downloader';
+import VideoList from './src/VideoList.tsx';
+import VideoScreen from './src/VideoScreen.tsx';
 
-import { NewAppScreen } from '@react-native/new-app-screen';
-import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
+export type RootStackParamList = {
+  VideoList: undefined;
+  VideoScreen: { uri: string };
+};
 
-function App() {
-  const isDarkMode = useColorScheme() === 'dark';
-
-  return (
-    <View style={styles.container}>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <NewAppScreen templateFileName="App.tsx" />
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
+const RootStack = createNativeStackNavigator<RootStackParamList>({
+  screens: {
+    VideoList: VideoList,
+    VideoScreen: VideoScreen,
+  },
+  screenOptions: {
+    headerShown: false,
   },
 });
 
+const Navigation = createStaticNavigation(RootStack);
+
+const App = () => {
+  setConfig({
+    maxParallelDownloads: 4,
+    updateFrequencyMS: 1000,
+  });
+
+  return <Navigation />;
+};
 export default App;

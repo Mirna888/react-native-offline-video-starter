@@ -1,0 +1,41 @@
+OFFLINE VIDEO SDK - SAMPLE APPLICATION
+FREE FOR NON-COMMERCIAL LICENSE
+VERSION 1.0 OF JULY 22, 2025
+
+1. Copyright notice
+Copyright (c) THE WIDLARZ GROUP Sp. z o.o., a Polish corporation based in Kraków, Poland, at Szlak 77/222, 31-153 Kraków, registered by the District Court for Kraków-Śródmieście, 11th Commercial Division of the National Court Register under number: KRS 0000948896, tax ID no./EU VAT: PL6762610444, share capital: PLN 5,000.00.
+
+2. License scope
+
+This license applies to the sample application code included in this repository (the "Software") which demonstrates how to integrate and use the Offline Video SDK provided by THE WIDLARZ GROUP Sp. z o.o.
+
+The Offline Video SDK itself is not included in this license and may be subject to separate licensing terms.
+
+3. License terms and conditions
+
+3.1. Grant of license. Subject to the terms and conditions of this license, the Licensor grants you a perpetual, irrevocable except in case of breach, worldwide, non-exclusive, no-charge, royalty-free, and limited license to:
+(I) use this sample application for non-commercial purposes, including testing, evaluation, and internal learning;
+(II) modify and distribute the sample code, provided that attribution is preserved and the code is not used for commercial distribution or as a competing product.
+
+3.2. Restrictions. You may not use this Software for:
+(I) commercial advantage or monetary gain;
+(II) creating software or services competitive with Offline Video SDK;
+(III) bundling or sublicensing the Offline Video SDK itself without proper authorization.
+
+3.3. Redistribution. You may redistribute the Software under the following conditions:
+(I) retain this license in all copies;
+(II) mark any modified files clearly as changed;
+(III) preserve copyright and attribution notices.
+
+4. SDK licensing
+
+Use of the Offline Video SDK shown in this repository is subject to a separate license agreement. You may require a valid commercial license to use the SDK in production or for any commercial purposes.
+
+To obtain a license for Offline Video SDK, please contact:
+hello@thewidlarzgroup.com
+
+5. Disclaimer and limitation
+
+5.1. UNLESS REQUIRED BY LAW OR AGREED TO IN WRITING, THE WIDLARZ GROUP PROVIDES THIS SOFTWARE ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
+
+5.2. IN NO EVENT SHALL THE WIDLARZ GROUP BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE, INCLUDING BUT NOT LIMITED TO LOSS OF GOODWILL, WORK STOPPAGE, OR DATA LOSS.

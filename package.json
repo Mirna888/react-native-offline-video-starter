@@ -10,9 +10,20 @@
     "test": "jest"
   },
   "dependencies": {
+    "@TheWidlarzGroup/react-native-video-stream-downloader": "latest",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/native-stack": "^7.3.21",
     "react": "19.1.0",
     "react-native": "0.80.1",
-    "@react-native/new-app-screen": "0.80.1"
+    "react-native-circular-progress": "^1.4.1",
+    "react-native-mmkv": "^3.3.0",
+    "react-native-orientation-locker": "^1.7.0",
+    "react-native-radial-gradient": "^1.2.1",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-screens": "^4.11.1",
+    "react-native-svg": "^15.12.0",
+    "react-native-video": "^6.16.1",
+    "react-native-video-player": "^0.16.3"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

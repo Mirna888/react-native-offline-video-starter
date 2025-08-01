@@ -1,0 +1,14 @@
+Copyright (c) THE WIDLARZ GROUP Sp. z o.o.
+
+This software is distributed by THE WIDLARZ GROUP Sp. z o.o., a Polish corporation based in
+Kraków, Poland, at Szlak 77/222, 31-153 Kraków, registered by the District Court for Kraków-Śródmieście, 11th Commercial Division of the National Court Register under number KRS 0000948896, EU tax ID number: PL6762610444, share capital: PLN 5,000.00.
+
+This software is protected by applicable copyright laws, including international treaties, and dual-licensed - depending on whether your use is for commercial purposes, meaning intended for or resulting in commercial advantage or monetary compensation, or not.
+
+If your use is strictly personal or solely for evaluation purposes, meaning for the purposes of testing the suitability, performance, and usefulness of this software outside the production environment, you agree to be bound by the terms included in the "thewidlarzgroup-non-commercial-license.txt" file.
+
+Your use of this software for commercial purposes is subject to the terms included in an applicable license agreement.
+
+In any case, you must not make any such use of this software as to develop software which may be considered competitive with this software.
+
+UNLESS EXPRESSLY AGREED OTHERWISE, THE WIDLARZ GROUP PROVIDES THIS SOFTWARE ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, AND IN NO EVENT AND UNDER NO LEGAL THEORY, SHALL THE WIDLARZ GROUP BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING FROM USE OR INABILITY TO USE THIS SOFTWARE.
