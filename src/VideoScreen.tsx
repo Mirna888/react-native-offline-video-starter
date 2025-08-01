@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, StyleSheet, Dimensions } from 'react-native';
 import Video from 'react-native-video';
-import { RouteProp, useRoute } from '@react-navigation/native';
+import { type RouteProp, useRoute } from '@react-navigation/native';
 
 const VideoScreen = () => {
   const route = useRoute<RouteProp<{ params: { uri: string } }, 'params'>>();

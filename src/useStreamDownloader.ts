@@ -11,9 +11,9 @@ import {
   resumeDownload,
   cancelDownload,
   useEvent,
-  DownloadStatus,
-  DownloadedAsset,
-  DownloadOptions,
+  type DownloadStatus,
+  type DownloadedAsset,
+  type DownloadOptions,
 } from '@TheWidlarzGroup/react-native-video-stream-downloader';
 
 export const useStreamDownloader = (apiKey: string) => {

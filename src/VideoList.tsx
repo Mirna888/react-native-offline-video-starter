@@ -1,4 +1,4 @@
-import React, { useCallback, useMemo } from 'react';
+import React, { useCallback } from 'react';
 import {
   View,
   Text,
@@ -20,11 +20,11 @@ import VideoPlayer from 'react-native-video-player';
 import RadialGradient from 'react-native-radial-gradient';
 import { HD } from './svgs/HD.tsx';
 import { useNavigation } from '@react-navigation/native';
-import { RootStackParamList } from '../App.tsx';
-import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { type RootStackParamList } from '../App.tsx';
+import { type NativeStackNavigationProp } from '@react-navigation/native-stack';
 import {
-  DownloadOptions,
   getAvailableTracks,
+  type DownloadOptions,
 } from '@TheWidlarzGroup/react-native-video-stream-downloader';
 
 type VideoItemType = {
