@@ -1,8 +1,12 @@
 # Sample App - Offline Video Download
 
+
 This is a demo React Native app showcasing an integration with the **Offline Video SDK**. It allows users to download video streams (e.g. HLS) and play them offline - even in airplane mode ✈️
 No need to manually manage caching, DRM, or playback logic – the SDK handles it all for you.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e92c71d8-c040-4c26-8135-8eab27d2d135" />
+</div>
 
 ## Features
 
