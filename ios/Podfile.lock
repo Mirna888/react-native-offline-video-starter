@@ -2332,7 +2332,7 @@ PODS:
     - React-perflogger (= 0.80.1)
     - React-utils (= 0.80.1)
     - SocketRocket
-  - ReactNativeVideoStreamDownloader (0.2.10):
+  - ReactNativeVideoStreamDownloader (0.2.11):
     - boost
     - DoubleConversion
     - fast_float
@@ -2814,7 +2814,7 @@ SPEC CHECKSUMS:
   ReactAppDependencyProvider: afd905e84ee36e1678016ae04d7370c75ed539be
   ReactCodegen: f8d5fb047c4cd9d2caade972cad9edac22521362
   ReactCommon: 17fd88849a174bf9ce45461912291aca711410fc
-  ReactNativeVideoStreamDownloader: 825e3d8f269c7df79e172c63cd14ea44fc122b49
+  ReactNativeVideoStreamDownloader: 086c75227fb044ce2a4bf200a42d14fb44b26e1c
   RNScreens: ee2abe7e0c548eed14e92742e81ed991165c56aa
   RNSVG: 341f555dbcd83a34d1f058e88df387de7bbc3347
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
