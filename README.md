@@ -12,7 +12,7 @@ No need to manually manage caching, DRM, or playback logic - the SDK handles it 
 * Fallback to online streaming when the video hasn’t been downloaded yet
 * Real-time download progress indicator
 
-This sample app uses the SDK’s core capabilities – a lightweight and clean base for further development 🔧
+This starter kit uses the SDK’s core capabilities – a lightweight and clean base for further development 🔧
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/e92c71d8-c040-4c26-8135-8eab27d2d135" />
@@ -32,7 +32,7 @@ const API_KEY = '<API_KEY>';
 This token is required for proper SDK registration and access to offline functionality 🎟️
 
 ### Getting Started
-To launch the sample app locally:
+To launch the app locally:
 
 ```bash
 bun install
