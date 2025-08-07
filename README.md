@@ -1,4 +1,4 @@
-[<img width="1101" height="380" alt="rnv-offline" src="https://github.com/user-attachments/assets/a761ddb1-849a-4456-aaf2-d94d9e891460" />](https://www.thewidlarzgroup.com/offline-video-sdk?utm_source=github&utm_medium=sample-offline-app-readme&utm_id=banner)
+[![rnv-offline-banner](./assets/offline-banner.png)](https://www.thewidlarzgroup.com/offline-video-sdk?utm_source=github&utm_medium=sample-offline-app-readme&utm_id=banner)
 
 
 This is a demo React Native app showcasing an integration with the **[Offline Video SDK](https://www.thewidlarzgroup.com/offline-video-sdk?utm_source=github&utm_medium=sample-offline-app-readme&utm_id=hero-offline)**. It allows users to download video streams (e.g. HLS) and play them offline - even in airplane mode ✈️
