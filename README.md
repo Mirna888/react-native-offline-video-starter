@@ -15,7 +15,7 @@ No need to manually manage caching, DRM, or playback logic - the SDK handles it 
 This starter kit uses the SDK’s core capabilities – a lightweight and clean base for further development 🔧
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/e92c71d8-c040-4c26-8135-8eab27d2d135" />
+  <video src="https://github.com/user-attachments/assets/dc4e064d-dc57-4671-aa46-c2cbb46e5510" />
 </div>
 
 ## Get Your SDK Token
